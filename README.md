@@ -2,8 +2,6 @@
 
 EdTrack is a comprehensive educational dashboard designed to monitor student performance, attendance, and risk factors. It helps educators identify "at-risk" students early using data visualization and provides tools to generate reports and send automated email alerts.
 
-![EdTrack Dashboard](https://via.placeholder.com/1000x500?text=EdTrack+Dashboard+Preview)
-*(Replace this link with an actual screenshot of your dashboard)*
 
 ## 🚀 Features
 
